@@ -14,4 +14,4 @@ This code implements a simple XOR neural network with 2 layers
 Learning rates = 0.1
 
 ## Cost plot
-![cost_plot](/figure_1.png)
+![cost_plot](./img/figure_1.png)
